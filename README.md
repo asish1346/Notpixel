@@ -3,7 +3,8 @@
 
 **npixel** is a powerful tool designed to bypass tasks, paint, and perform various automated functions seamlessly across devices. This application enables users to effectively enjoy its features, making it an essential tool for Telegram users.
 
-![npixel Showcase](https://github.com/asish1346/Notpixel/raw/main/shot.png)
+![npixel Showcase](https://raw.githubusercontent.com/asish1346/Notpixel/main/shot.png)
+
 
 ## Warning
 This program uses third-party libraries to log into Telegram accounts.
